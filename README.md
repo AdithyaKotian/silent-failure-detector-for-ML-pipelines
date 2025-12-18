@@ -130,7 +130,7 @@ These are deliberate design choices to focus on monitoring logic.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-8. Conclusion
+8.Conclusion
 
 This project demonstrates how silent ML failures can be detected early by monitoring data distributions instead of relying solely on model performance metrics.
 
