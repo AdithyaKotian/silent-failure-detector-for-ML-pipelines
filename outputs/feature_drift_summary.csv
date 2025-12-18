@@ -1,0 +1,13 @@
+day,feature,psi,ks_pvalue,drift_level
+day_1,transaction_amount,0.0,0.16411,Low
+day_1,customer_age,0.0,0.61017,Low
+day_1,transactions_per_day,0.028,0.85955,Low
+day_2,transaction_amount,0.0,0.0,Low
+day_2,customer_age,0.0,1e-05,Low
+day_2,transactions_per_day,0.106,0.0,Medium
+day_3,transaction_amount,0.0,0.0,Low
+day_3,customer_age,0.0,0.0,Low
+day_3,transactions_per_day,0.106,0.0,Medium
+day_4,transaction_amount,0.0,0.0,Low
+day_4,customer_age,0.0,0.0,Low
+day_4,transactions_per_day,0.103,0.0,Medium
