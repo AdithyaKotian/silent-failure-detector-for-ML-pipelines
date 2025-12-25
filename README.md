@@ -1,4 +1,4 @@
-##Silent Failure Detector for ML Pipelines
+Silent Failure Detector for ML Pipelines
 
 1.Problem Statement — What Is Silent Failure?
 In production ML systems, models are trained on historical data.
